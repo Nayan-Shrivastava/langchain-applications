@@ -1,6 +1,5 @@
 from langchain.document_loaders.base import Document
 from langchain.document_loaders import TextLoader
-from langchain.indexes import VectorstoreIndexCreator
 from langchain.utilities import ApifyWrapper
 from langchain.vectorstores import FAISS
 from langchain.text_splitter import CharacterTextSplitter
