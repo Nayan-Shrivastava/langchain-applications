@@ -1,0 +1,213 @@
+If you have an idea that can be brought to life using blockchain technology, you’re not alone. We work hand in hand with companies to create long-lasting solutions that enhance your current organization through blockchain technology.
+We are on a mission to build great products that speed up the adoption of blockchain technology because we believe in its power to bring greater economic freedom to people around the world.
+CONTACT US
+/about us
+Bringing AI & ML Into Blockchain Development 
+Artificial intelligence solutions work even better when paired with blockchain technology. Because blockchain can feed higher quality training datasets it can ensure better outcomes from AI models.
+Blockchain has the power to make A/I more reliable, efficient and secure by providing large amounts of immutable, verified data. Blockchain helps AI scale to provide more dependable insights, manage data usage and model sharing, and create a trustworthy and transparent data economy without compromising security.
+/Our Credentials
+Rapid Innovation is a nationally recognized leading blockchain company.
+Everyone in our organization strives for excellence through further training and accreditation to create leading blockchain technology. Our awards and accomplishments include:
+The Oxford Blockchain Strategy Programme
+University of Oxford (UK), Said Business School
+Certified Blockchain Solutions Architect
+The Blockchain Training Alliance
+Certified Blockchain Technology Expert
+/Our Services
+We help businesses like yours build beautiful, user-friendly blockchain apps.
+MVP Development
+We create, develop, and deploy your minimum viable product (MVP) so you can start building a user base and launch your business with maximum impact without delay.
+Smart Contracts
+Is your company integrating your existing app with Ethereum or any other major blockchain? We write the smart contracts, test them, and deploy them on the main net for you.
+Application Upgrades
+Do you have an app that needs additional blockchain technology or an improved user interface (UI) or user experience (UX)? We can transform your existing app into an app that redefines your brand.
+Prototyping & Proof Of Concept
+Do you have an app concept that requires research and testing before you go public with your new venture? We prototype your idea on the market to give it real-world viability before you launch.
+Software Consulting
+You may wonder how to improve blockchain technology performance, where to start with development, or how to set up software architecture. We help determine the best route for creating your app.
+/Our Development Process
+Get your project delivered to
+scope, on time and within budget. 
+Our team undergoes a rigorous step-by-step blockchain development process to ensure the highest level of quality during every stage of development. The result is custom blockchain solutions you can rely on. Our blockchain solutions process includes:
+01
+Ideation and Brainstorming
+To create an app that meets your specifications, we need to understand exactly what you want to build and how your organization will use it. We meet with you and brainstorm to create a foundational structure we can build on. We fully explore your idea, determine what you want, and provide feedback to refine project details.
+02
+UI & UX
+Using your logo and initial design ideas, our designers build mockups in a design program that resembles the finished product. We start with the most important pages (usually the front-end landing page and user dashboard) and create a look and feel that will set the tone for the rest of the application. We make adjustments to the app based on your feedback.
+03
+App Architecture
+The architecture is the invisible structure that works in the background, ensuring that the user interface and app features run smoothly and securely. Architecture development and testing is a critical part of our blockchain software development services that sets everything else up for success.
+04
+Development
+We follow strict guidelines when writing code to ensure fast, consistent app performance. We document all code, giving you a solid foundation that you can build on after your MVP. You do not have to start from scratch when upgrading your app in the future.
+05
+App Testing
+Software applications under development stay in a constant state of change. Small adjustments to one page in the code can sometimes cause features to break down. To prevent this from occurring, we create automated tests to run during deployment.
+06
+Deployment
+Proper deployment is necessary for a positive user experience. The deployment process includes launching your front-end servers, API servers, message sending (email and text), and databases. Failure in one component can create a negative user experience. Your users want your app to respond instantly the first time and every time they use it.
+07
+Upgrades
+To create leverage and remain relevant in the blockchain industry, you need to continue finding ways to improve and expand your app. You can add features based on new technology trends and user feedback. We continue the process of upgrading each blockchain solution. working on the foundational code each time.
+Meet your expert team of blockchain game developers.
+Ready to build games that everyone loves.
+Contact us
+The Future of Gaming is Blockchain
+52%
+of all game activity on Unique Active Wallets
++19%
+in Gaming NFT sales count year-over-year in 2022
+$12+
+billion by the end of 2022 as investment in p2e
+600+
+blockchain games in the market in 2021
+Blockchain game development solves the classic problems of in-game item ownership and peer-to-peer trading. The next generation of games will operate using smart contracts. It means true peer-to-peer gaming with no middleman. Be part of this exciting new frontier of online gaming. Games on blockchain appeal to players who value security, transparency, and immutability. Let's talk about how blockchain technology is about to revolutionize gaming!
+How blockchain is changing the gaming experience ?
+The problem in the gaming industry is obvious: there is no mechanism for fair distribution of revenues with players and developers. Players deserve to be rewarded more fairly. Blockchain offers to revolutionize gaming experience forever by enabling true ownership of in-game items and currencies; creating a best-in-class new opportunity for game publishers and gamers alike. Blockchain technology can support a whole new generation of gaming ecosystems, which are powered by the players themselves.
+Higher LTV
+Lower player acquisition costs
+Lower marketing costs
+Increase in user engagement and referrals
+Why Choose Blockchain for Gaming?
+Games are becoming more expensive and harder to create. They are tough to monetize through the traditional way. Player acquisition costs are rising and engagement is decreasing. Blockchain allows users to participate in the game economy. It is a win-win for both developers and gamers, who have the opportunity to make significant profits as economic nodes. Shared ownership helps cut marketing costs and contrubites to higher LTVs.
+More opportunities to monetize
+Lower customer acquisition costs and greater retention
+Seamless interactions across ecosystems
+Game <> game interoperability
+An opportunity to entirely bootsrap the game budget
+Users enjoy provenance and transparency
+Users take part in the direction of the game development
+Ecosystem token accrues value as more users invest time and money
+Player-centric design
+Seamless payments with Web3 payment infrastructure
+Pay-to-Win mechanics often deter users
+Blockchain games can derail into becoming Ponzi schemes
+Upfront costs for users and often high barriers to entry
+UX challenges caused by crypto complexitty
+Risk of uncontrollable third-party NFT implementations
+Skill-based competition can become challenging when finances impact core gameplay
+Multiplayer games can be highjacked by big spenders
+Many Play to Earn games today idepend more people buying into the ecosystem
+Blockchain has yet to reach mass adoption in the industry
+Forking creates possible security risks
+We've already helped many companies with 
+Blockchain Development
+Blockchain Gaming Use Cases
+Blockchain-based games and collectibles are more than just hot – they already generated more than $5 billion in 2021. Today, there are hundreds DApps and games built on top of blockchain networks. Till recently Ethereum blockchain was leading the way. Today, new comers, such as Solana, Binance Smart Chain, Tron, and others make blockchain games faster, more affordable and more scalable. Moreover, we can use crypto to monetize around non-blockchain games and this model is uniquely well-suited to esports and competitive titles.
+Solana
+Solana has had record growth in Q2 2022 leading the pack by 612%. Solana enables hyper-fast transactions with unlimited scalability at ultra-low fees. With 710K+ transactions per second, Solana can process transactions in a fraction of the time of most blockchains
+Ethereum
+The first-ever blockchain designed to make smart contracts easier to write and deploy. In the blockchain gaming industry, Ethereum has one of the biggest and most developed communities. In the coming years, Ethereum developers plan to introduce sharding to solve scalability issues.
+More
+Today, there is an ever-growing list of projects being developed on other networks, such as Binance Smart Chain, TRON, ONT, NEO, EOS, VeChain, and IOST. More and more game developers are looking into how they can leverage blockchain technology. Blockchain games enjoy greater than ever opportunities for growth and mass adoption.
+Blockchain Game Development Process
+You've got a phenomenal idea for creating a game on blockchain technology. What do you do next? When you think about the whole blockchain game development process, it can be overwhelming. Leave it to us. We’ve done the hard yards and created an easy-to-follow process for creating blockchain games. We break down the process into stages that put you on track to success. From the correct technical implementation to crafting the design and user experience of your game. Step by step, day by day, a dedicated Project Manager will support your venture from initial concept development through launch and beyond.
+01
+Concept Thinking
+The development of blockchain games takes skill and knowledge and will cost you countless hours of research. Our developers, designers, and marketers work behind the scenes to help you create your blockchain game. We imagine every step before we build anything, so you know exactly what will be built for you and when it will be ready to launch.
+02
+Story planning
+What makes a good game story? There's so much you need to know about the process, so many technicalities and pitfalls to consider. Not to mention all the different parts of a good game – from combat and story to mechanics and narrative flow. Our game developers make sure your vision comes true by outlining your video game story from concept all the way through production, offering you hands-on help at every turn.
+03
+Creating Game Design 
+Document (GDD)
+It all starts with defining the core ideas of your game in the Game Design Document before moving onto prototypes. The game design document is a crucial tool to help us know how the game will look like. The more we understand about your game, the more accurate and detailed our work will be.
+04
+Requirement Asset
+& Gathering
+There are many problems in the blockchain game development process to consider today. For instance, the lack of transparency, increasing production costs and the rise in minimum viable product quality standards. All of this raises the need for greater visibility over a project's developments. We get the project off on the right foot by doing an extensive needs analysis, coming up with a reliable requirements checking form and performing thorough asset gathering from the get-go. Since we've gathered all requirements, assets and features needed for development, we're ready to go!
+05
+Sprint Planning
+Under-estimating or overestimating the time needed to complete feature work has far-reaching effects on the integrity of the overall project plan. Sprint planning is the first time an agile team gathers to establish the scope and direction for the product's next development iteration. It is an opportunity to gather your team members’ initial impressions, user story estimates, build quality acceptance criteria and other inputs necessary to form a sprint backlog.
+06
+Core Game Development
+The prototypes involve creating the preliminary set of concepts, both visual and functional. We build games that mean something, that people actually want to play.
+Our Blog
+Blockchain gaming offers an array of opportunities. For example, you can combine smart contracts with free-to-play mechanics. Then you can create a game economy that doesn't need the player to pay any money upfront or feed the game through in-app purchases. Learn more about the possibilities and limitations of blockchain game development
+by reading our blog.
+Planet Finance
+planetfinance.io
+The best DeFi apps all in one place at the apex of high yields and low risk - starting with the most optimized stable coin aggregator in crypto.
+Blockchain : Binance Smart Chain
+TechStack : ReactJS, NodeJS, Solidity
+Equa
+equa.global
+Equa is your single source for equity and digital asset management. Manage all of your organization's needs on one platform. Digitally, securely, and efficiently! Cap table management, incentive plans, issuance and complaince features plus more!
+Blockchain : Ethereum, EOS
+TechStack : ReactJS, NodeJS, Solidity, C++, PostgreSQL
+3D Room Space
+3droomspace.com
+3D Room Space is a blockchain-based social rental platform that connects roommates, renters and landlords Quickly, safely, and easily.
+Blockchain : Polkadot
+TechStack : React Native, Solidity, MongoDB, Rust
+Wall Street Bets
+wsbdapp.com
+WSB DApp solves the fees and market manipulation problem that have solely benefited centralized financial institutions for the past 100 Years.
+Blockchain : Binance Smart Chain
+TechStack : ReactJS, NodeJS, Solidity,MongoDB
+/Our Development Team
+Our Development Team
+Many factors need to come together to build a great blockchain game. First, having the right team determines the success of your project. We are here for you. Our blockchain experts create game-changing projects. Our team enjoys the leadership of dedicated and talented professionals who know what it takes to bring your product to life. Our technical Co-Founders, Jesse Anglen (CEO) and Prasan Dey (CTO) have been building apps in the blockchain space since 2015. Before starting Rapid Innovation, they worked side-by-side with some of the biggest names and brands in the blockchain solutions industry. Jesse and Prasan played key roles in building 100+ blockchain applications that are still used today.
+Jesse Anglen
+CEO
+Prasan Dey
+CTO
+Tyson Faulkner
+President
+Peter Rogers
+VP of Sales & Business Development
+Mark Bardi
+Head of Marketing
+Mike Bardi
+Business Development
+Varsha Singh Raghav
+Head of HR
+What our clients say about working with us
+Rapid Innovation are experienced developers that are capable of managing a global remote team tasked with multiple projects. Their in-depth knowledge on several coding languages helps accelerate project development with tight budgets and timelines. I recommend reaching out to them if you have questions on how to take your project to the next level.
+Frequently asked questions
+How do I decide which blockchain game idea to pursue?
+How to choose a blockchain game development company?
+What are the most used networks in blockchain-based game development?
+How do I decide which blockchain is best for my game?
+What steps are involved in building and deploying smart contracts?
+How much does it cost to create a blockchain game?
+Why do so many blockchain games fail?
+What would be the best way to monetize blockchain games?
+How do blockchain gamesmake money ?
+What is the difference between traditional games and blockchain-based games for game creators?
+Can I use crypto and blockchain to monetize around traditional games?
+Exo Fi is a next generation of DeFi cross-chain swap infrastructure, a community-oriented project changing the way cryptocurrency is traded and providing previously unseen levels of control and flexibility in the hands of investors and projects.
+Blockchain: Binance Smart Chain
+Tech Stack: React, Nest.js, Hardhat, Redux, OpenZeppelin
+The best DeFi apps all in one place at the apex of high yields and low risk - starting with the most optimized stable coin aggregator in crypto.
+Blockchain: Binance Smart Chain
+Tech Stack: ReactJS, NodeJS, Solidity
+Equa is your single source for equity and digital asset management. Manage all of your organization's needs on one platform. Digitally, securely, and efficiently! Cap table management, incentive plans, issuance and complaince features plus more!
+Blockchain: Ethereum, EOS
+Tech Stack: ReactJS, NodeJS, Solidity, C++, PostgreSQL
+3D Room Space is a blockchain-based social rental platform that connects roommates, renters and landlords Quickly, safely, and easily.
+Tech Stack: React Native, Solidity, MongoDB, Rust
+WSB DApp solves the fees and market manipulation problem that have solely benefited centralized financial institutions for the past 100 Years.
+Blockchain: Binance Smart Chain
+Tech Stack: ReactJS, Solidity, NodeJS, MongoDB
+Royale utilizes is a DeFi dapp that uses cross-chain liquidity pools to bankroll iGaming startups, creating a new industry niche, IGDeFi.
+Blockchain: Ethereum, Binance Smart Chain, Polygon
+Tech Stack: ReactJS, Solidity, NodeJS, MongoDB
+Quest Crypto is your crypto gateway to real-estate ownership. Quest empowers people to take back their financial health through real-estate secured crypto.
+Blockchain: Ethereum, Binance Smart Chain, Polygon
+Tech Stack: ReactJS, Solidity, NodeJS, PostgreSQL
+Arkius is a platform that is radically reimagining the structure of the internet to be more fair and humanistic.
+Tech Stack: Solidity, NodeJS
+/MEDIA
+Some interviews and podcasts with our CEO
+Metaverse 3D NFT marketplaces
+Our team has been instrumental in developing NFT marketplaces that connect users, traders, and developers. We offer the development of 3D spaces for your metaverse NFT marketplace for digital asset tokenization, trading, and monetization. We help build self-contained marketplaces with cross-platform capabilities. Now you can integrate your decentralized applications with the marketplace and allow users to access virtual assets from a single entry point.
+Meet Our CEO, Jesse Anglen
+Jesse Anglen is the Founder/CEO of Rapid Innovation. Since its launch in 2019, Jesse has led Rapid Innovation to become a successful software development agency that employs a global team of 200+ contractors with headquarters on the west coast of the U.S. and India.
+He’s been an active investor in cryptocurrency and operator in the blockchain space dating as far back as 2015. Prior to starting Rapid Innovation, Jesse worked side-by-side with some of the biggest names and brands in the industry, having played a key role in building over 100 blockchain applications that are still used today.
+Hey, Let’s Talk!
+Let's make something great together.
+Or, if you prefer, e-mails are just as welcome!
+
+
