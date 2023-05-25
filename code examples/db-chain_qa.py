@@ -49,6 +49,22 @@ def get_prompt():
 get_prompt()
 
 # Examples of possible questions to ask the database
-# question - Which actor starred in film "Alabama Devil"
-# question - Which is the most rented movie
+
+# question - Which actor starred in film "Alabama Devil"?
 # question - Which is the most expensive movie to rent?
+
+
+'''
+SELECT * FROM public.film ORDER BY film_id ASC
+
+SELECT film_id, actor_id FROM public.film_actor
+WHERE film_id = 9 ORDER BY film_id ASC, actor_id ASC
+
+SELECT * FROM public.actor
+WHERE actor_id = 10 
+'''
+
+# SELECT * FROM public.film ORDER BY film_id ASC                     (film Id 9)
+# SELECT film_id, actor_id FROM public.film_actor WHERE film_id = 9 ORDER BY film_id ASC, actor_id ASC 
+
+# SELECT title, rental_rate FROM film ORDER BY rental_rate DESC LIMIT 1;

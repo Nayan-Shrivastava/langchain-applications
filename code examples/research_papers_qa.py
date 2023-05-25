@@ -11,6 +11,8 @@ from extension import llm
 # llm = ChatOpenAI(temperature=0) # Initialize the LLM to be used
 
 arxiv = ArxivAPIWrapper()
+
+# Create tool
 arxiv_tool = Tool(
     name="arxiv_search",
     # Setting Objective
@@ -18,9 +20,11 @@ arxiv_tool = Tool(
     func=arxiv.run
 )
 
+# tools array
 tools = [arxiv_tool]
 
 
+# initialize the agent
 agent_chain = initialize_agent(
     tools,
     llm,

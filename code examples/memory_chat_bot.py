@@ -21,7 +21,7 @@ memory = ConversationBufferMemory(memory_key="chat_history")
 llm_chain = LLMChain(
     llm=OpenAI(),
     prompt=prompt,
-    # verbose=True,
+    verbose=True,
     memory=memory
 )
 

@@ -1,18 +1,6 @@
 If you have an idea that can be brought to life using blockchain technology, you’re not alone. We work hand in hand with companies to create long-lasting solutions that enhance your current organization through blockchain technology.
 We are on a mission to build great products that speed up the adoption of blockchain technology because we believe in its power to bring greater economic freedom to people around the world.
 CONTACT US
-/about us
-Bringing AI & ML Into Blockchain Development 
-Artificial intelligence solutions work even better when paired with blockchain technology. Because blockchain can feed higher quality training datasets it can ensure better outcomes from AI models.
-Blockchain has the power to make A/I more reliable, efficient and secure by providing large amounts of immutable, verified data. Blockchain helps AI scale to provide more dependable insights, manage data usage and model sharing, and create a trustworthy and transparent data economy without compromising security.
-/Our Credentials
-Rapid Innovation is a nationally recognized leading blockchain company.
-Everyone in our organization strives for excellence through further training and accreditation to create leading blockchain technology. Our awards and accomplishments include:
-The Oxford Blockchain Strategy Programme
-University of Oxford (UK), Said Business School
-Certified Blockchain Solutions Architect
-The Blockchain Training Alliance
-Certified Blockchain Technology Expert
 /Our Services
 We help businesses like yours build beautiful, user-friendly blockchain apps.
 MVP Development
@@ -50,6 +38,18 @@ Proper deployment is necessary for a positive user experience. The deployment pr
 07
 Upgrades
 To create leverage and remain relevant in the blockchain industry, you need to continue finding ways to improve and expand your app. You can add features based on new technology trends and user feedback. We continue the process of upgrading each blockchain solution. working on the foundational code each time.
+/Our Credentials
+Rapid Innovation is a nationally recognized leading blockchain company.
+Everyone in our organization strives for excellence through further training and accreditation to create leading blockchain technology. Our awards and accomplishments include:
+The Oxford Blockchain Strategy Programme
+University of Oxford (UK), Said Business School
+Certified Blockchain Solutions Architect
+The Blockchain Training Alliance
+Certified Blockchain Technology Expert
+/about us
+Bringing AI & ML Into Blockchain Development 
+Artificial intelligence solutions work even better when paired with blockchain technology. Because blockchain can feed higher quality training datasets it can ensure better outcomes from AI models.
+Blockchain has the power to make A/I more reliable, efficient and secure by providing large amounts of immutable, verified data. Blockchain helps AI scale to provide more dependable insights, manage data usage and model sharing, and create a trustworthy and transparent data economy without compromising security.
 Meet your expert team of blockchain game developers.
 Ready to build games that everyone loves.
 Contact us
@@ -177,6 +177,10 @@ What would be the best way to monetize blockchain games?
 How do blockchain gamesmake money ?
 What is the difference between traditional games and blockchain-based games for game creators?
 Can I use crypto and blockchain to monetize around traditional games?
+Metaverse 3D NFT marketplaces
+Our team has been instrumental in developing NFT marketplaces that connect users, traders, and developers. We offer the development of 3D spaces for your metaverse NFT marketplace for digital asset tokenization, trading, and monetization. We help build self-contained marketplaces with cross-platform capabilities. Now you can integrate your decentralized applications with the marketplace and allow users to access virtual assets from a single entry point.
+/MEDIA
+Some interviews and podcasts with our CEO
 Exo Fi is a next generation of DeFi cross-chain swap infrastructure, a community-oriented project changing the way cryptocurrency is traded and providing previously unseen levels of control and flexibility in the hands of investors and projects.
 Blockchain: Binance Smart Chain
 Tech Stack: React, Nest.js, Hardhat, Redux, OpenZeppelin
@@ -199,10 +203,6 @@ Blockchain: Ethereum, Binance Smart Chain, Polygon
 Tech Stack: ReactJS, Solidity, NodeJS, PostgreSQL
 Arkius is a platform that is radically reimagining the structure of the internet to be more fair and humanistic.
 Tech Stack: Solidity, NodeJS
-/MEDIA
-Some interviews and podcasts with our CEO
-Metaverse 3D NFT marketplaces
-Our team has been instrumental in developing NFT marketplaces that connect users, traders, and developers. We offer the development of 3D spaces for your metaverse NFT marketplace for digital asset tokenization, trading, and monetization. We help build self-contained marketplaces with cross-platform capabilities. Now you can integrate your decentralized applications with the marketplace and allow users to access virtual assets from a single entry point.
 Meet Our CEO, Jesse Anglen
 Jesse Anglen is the Founder/CEO of Rapid Innovation. Since its launch in 2019, Jesse has led Rapid Innovation to become a successful software development agency that employs a global team of 200+ contractors with headquarters on the west coast of the U.S. and India.
 He’s been an active investor in cryptocurrency and operator in the blockchain space dating as far back as 2015. Prior to starting Rapid Innovation, Jesse worked side-by-side with some of the biggest names and brands in the industry, having played a key role in building over 100 blockchain applications that are still used today.

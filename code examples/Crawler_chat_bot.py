@@ -65,5 +65,6 @@ def crawl(url):
 
 
 ask("who is CEO of rapid innovation")
+ask('Who are the leaders at Rapid Innovation')
 
 # crawl("https://www.rapidinnovation.io/")
